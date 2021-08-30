@@ -1,5 +1,5 @@
 /**
- * Author: Joel Toof 
+ * Author: Joel Toof
  *         jtoof2@huskers.unl.edu
  * Date: 2021/08/26
  *
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Joel Toof\n");
+  printf("Joel Toof$\n");
+  printf("My major is Computer Engineering\n");
 
   return 0;
 }
